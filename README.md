@@ -1,1 +1,3 @@
-# This premitive and simple mvc with php. 
+### Description
+
+This is minimalistic MVC architecture implementation in PHP.
